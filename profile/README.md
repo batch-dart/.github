@@ -2,12 +2,6 @@
 
 ## 1.1. A optimized job scheduling framework for batch apps on any platform
 
-<p align="center">
-  <a href="https://github.com/batch-dart/batch.dart">
-    <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
-  </a>
-</p>
-
 `Batch.dart` is:
 
 ### 1.1.1. **_Optimized for job scheduling_** 🚀
