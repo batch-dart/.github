@@ -28,8 +28,6 @@ See [LICENSE](https://github.com/batch-dart/batch.dart/blob/main/LICENSE).
 
 Visit [development repository](https://github.com/batch-dart/batch.dart) to learn more about the framework and to find codelabs.
 
-Browse [pub.dev](https://pub.dev/) for more packages and libraries.
-
 Our API reference documentation is published at [api.dart.dev](https://pub.dev/documentation/batch/latest/), based on the stable release.
 
 Or contact author at kato.shinya.dev@gmail.com.
